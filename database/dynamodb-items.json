@@ -1,0 +1,40 @@
+[
+  {
+    "type": "skills",
+    "category": "Frontend",
+    "items": ["HTML", "CSS", "React", "Next.js", "Tailwind CSS"]
+  },
+  {
+    "type": "skills",
+    "category": "Backend & Data",
+    "items": [
+      "Node.js",
+      "Flask",
+      "Firebase",
+      "REST APIs",
+      "Supabase",
+      "PostgreSQL",
+      "AWS"
+    ]
+  },
+  {
+    "type": "skills",
+    "category": "Languages",
+    "items": ["JavaScript", "TypeScript", "Python", "Java", "C"]
+  },
+  {
+    "type": "skills",
+    "category": "AI / ML",
+    "items": ["scikit-learn", "Pandas", "NumPy"]
+  },
+  {
+    "type": "skills",
+    "category": "Tools & Platforms",
+    "items": ["Git", "GitHub", "Vercel", "Netlify", "Figma"]
+  },
+  {
+    "type": "skills",
+    "category": "Development Tools",
+    "items": ["VS Code", "IntelliJ IDEA"]
+  }
+]
